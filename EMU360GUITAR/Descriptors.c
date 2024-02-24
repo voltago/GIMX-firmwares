@@ -1,5 +1,5 @@
 /*
- Copyright (c) 2019 Mathieu Laurendeau <mat.lau@laposte.net>
+ Copyright (c) 2024 Florian Pfeffer <flopf@flopf.de>
  License: GPLv3
  */
 
